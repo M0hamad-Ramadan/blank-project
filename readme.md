@@ -1,4 +1,4 @@
-> # `Git Documentation summary`
+# `Git Documentation summary`
 
 > [!NOTE]
 > Remember, understand, and don't ~~memorize~~. :blush:
@@ -7,29 +7,33 @@
 
 ---
 
-**steps :**
----
+## steps 🔢
+
 1. Create a repository.
 2. Start and manage a new branch.
 3. Change a file and commit those changes to GitHub.
 4. Open and merge a pull request.
----
----
----
-
-### Step :one: Create a repository :
 
 ---
+---
+---
 
-- repository as a folder that contains related items, such as files, images, videos, or even other folders
+### :one: Create a repository
 
-- epository usually groups together items that belong to the same "project" or thing you're working on
+---
 
-- repositories must be include a README file, a file with information about your project
+- repository as a folder that contains related items, such as files, images,
+  videos or even other folders
+
+- epository usually groups together items that belong to the same "project" or
+  thing you're working on
+
+- repositories must be include a README file, a file with information about your
+  project
 
 - GitHub also offers other common options such as a license file
 
-### Step :two: Create a branch :
+### :two: Create a branch
 
 - Branching lets you have different versions of a repository at one time
 
@@ -37,15 +41,19 @@
 
 - You can create additional branches off of main in your repository
 
-- Branching is helpful when you want to add new features to a project without changing the main source of code
+- Branching is helpful when you want to add new features to a project without
+changing the main source of code
 
-- The work done on different branches will not show up on the main branch until you merge it
+- The work done on different branches will not show up on the main branch until
+you merge it
 
 - You can use branches to experiment and make edits before committing them to main
 
-- When you create a branch off the main branch, you're making a copy, or snapshot, of main as it was at that point in time
+- When you create a branch off the main branch, you're making a copy, or snapshot,
+of main as it was at that point in time
 
-- if someone else made changes to the main branch while you were working on your branch, you could pull in those updates.
+- if someone else made changes to the main branch while you were working on your
+branch, you could pull in those updates.
 
 - **Creating a branch** :
 
@@ -56,27 +64,31 @@
 5. Now you have two branches :smile:
 6. they look exactly the same. Next you'll add changes to the new readme-edits branch
 
-### Step :three: Make and commit changes :
+### :three: Make and commit changes
 
 - On GitHub, saved changes are called commits.
 
-- Each commit has an associated commit message, which is a description explaining why a particular change was made, to understand what you’ve done and why
+- Each commit has an associated commit message, which is a description
+explaining why a particular change was made, to understand what you’ve done and why
 
-- changes will be made only to the bransh, so now this branch contains content that's different from main.
+- changes will be made only to the bransh, so now this branch contains content
+that's different from main.
 
-### Step :four: Open a pull request :
+### :four: Open a pull request
 
 - Now that you have changes in a branch off of main, you can open a pull request
 
 - Pull requests are the heart of collaboration on GitHub.
 
-- When you open a pull request, you're proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch
+- When you open a pull request, you're proposing your changes and requesting
+that someone review and pull in your contribution and merge them into their branch
 
 - Pull requests show diffs, or differences, of the content from both branches
 
 - The changes, additions, and subtractions are shown in different colors
 
-- if you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+- if you make a commit, you can open a pull request and start a discussion,
+even before the code is finished.
 
   - **open a pull request and then merge the branch !!** :
 
@@ -108,23 +120,23 @@
 
 ## `commands`
 
-<details>
+  <details>
 
-  <summary>01- git init </summary>
+    <summary> 01- git init </summary>
 
-#### for initialize 'create' local repo
+- for initialize 'create' local repo
 
-A hidden file named `.git` will be created
+- A hidden file named `.git` will be created
 
-</details>
+  </details>
 
 ---
 
-<details>
+  <details>
 
 <summary>02- git add </summary>
 
-#### for create another version
+### for create another version
 
 </details>
 
@@ -163,7 +175,7 @@ A hidden file named `.git` will be created
 
 <summary>06- git remote </summary>
 
-#### Track the changes you've made
+#### Trck the changes you've made
 
 </details>
 
