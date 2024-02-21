@@ -1,4 +1,4 @@
-> # git:
+> # `Git Documentation summary`
 
 > [!NOTE]
 > Remember, understand, and don't ~~memorize~~. :blush:
@@ -7,18 +7,15 @@
 
 ---
 
-## `Git Documentation summary`
-
 **steps :**
-***
+---
 1. Create a repository.
 2. Start and manage a new branch.
 3. Change a file and commit those changes to GitHub.
 4. Open and merge a pull request.
-
-***
-***
-***
+---
+---
+---
 
 ### Step :one: Create a repository :
 
@@ -81,26 +78,27 @@
 
 - if you make a commit, you can open a pull request and start a discussion, even before the code is finished.
 
-  - **open a pull request and  then merge the branch !!** :
+  - **open a pull request and then merge the branch !!** :
 
-    1. 
+    1.
     2.
     3.
     4.
     5.
 
-## `Command index`
+## `__Commands table__`
 
-| index | name       |
-| ----- | ---------- |
-| 1     | git init   |
-| 2     | git add    |
-| 3     | git commit |
-| 4     | git push   |
-| 5     | git status |
-| 6     | git remote |
-| 7     | git -----  |
-| 8     | git -----  |
+| index | Command       | ------|
+| ----- | ---------- |------|
+| 1     | git init   |------|
+| 2     | git add    |------|
+| 2     | --- add    |add . |
+| 3     | git commit |------|
+| 4     | git push   |------|
+| 5     | git status |------|
+| 6     | git remote |------|
+| 7     | git config |--get remote.origin.url|
+| 7     | --- config |------|
 
 ---
 
